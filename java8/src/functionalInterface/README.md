@@ -1,7 +1,7 @@
 # 함수형 인터페이스 
 ### 함수형 인터페이스의 개념
 - 인터페이스에 추상 메소드가 하나만 있으면 함수형 인터페이스 라고 한다.
-- `@FunctionalInterface` 를 붙여서 보장할 수 있다.
+- `@functionalInterface` 를 붙여서 보장할 수 있다.
 - 다른 형태의 메소드가 있더라도 추상 메소드만 하나면 무조건 functional interface
 - `static`메소드나 `default`메소드(나중에 나옴)은 추가할 수 있다.
 - static메소드 앞에 public은 생략할 수 있다.
