@@ -11,7 +11,7 @@
     - java8 API의 메소드
     
 ## OOP
-- 객체지향의 사실과 오해
+- [객체지향의 사실과 오해](https://github.com/Hyun-juhee/Java-Study/blob/main/OOP/TheEssenceOfObjectOrientation.md)
 ## TDD
 - [TDD with Junit](https://juhi.tistory.com/category/%EC%84%9C%EB%B2%84/TDD)
     - Junit 설정 및 프로젝트 세팅
