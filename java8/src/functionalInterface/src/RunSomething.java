@@ -1,4 +1,4 @@
-package FunctionalInterface.src;
+package functionalInterface.src;
 /**
 * 함수형 인터페이스
 */
