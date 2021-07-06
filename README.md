@@ -9,9 +9,16 @@
     - default method
     - static method
     - java8 API의 메소드
-    
+- [Stream](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/stream)
+    - stream
+    - stream pipeline
+    - stream API
+  - collectors
+- [Optional]()
+  
 ## OOP
 - [객체지향의 사실과 오해](https://github.com/Hyun-juhee/Java-Study/blob/main/OOP/TheEssenceOfObjectOrientation.md)
+- [오브젝트](https://github.com/Hyun-juhee/Java-Study/blob/main/OOP/Object.md)
 ## TDD
 - [TDD with Junit](https://juhi.tistory.com/category/%EC%84%9C%EB%B2%84/TDD)
     - Junit 설정 및 프로젝트 세팅
