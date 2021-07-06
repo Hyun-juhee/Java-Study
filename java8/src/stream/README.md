@@ -8,11 +8,11 @@
 - 그냥 stream만 사용하면 return타입 = Stream<>
 - terminal operation : collect, allMatch, anyMatch, forEach, count, min, max
 
-### Stream pipeline
+### [Stream pipeline](https://github.com/Hyun-juhee/Java-Study/blob/main/java8/src/stream/src/StreamPipeline.java)
 - intermediate operation과 한개의 terminal operation으로 구성한다. 
 - stream은 terminal operation를 실행할 때에만 처리한다. 
 
-### Stream API
+### [Stream API](https://github.com/Hyun-juhee/Java-Study/blob/main/java8/src/stream/src/StreamApi.java)
 - filter(<조건문>) : 조건에 맞는 원소만 반환
 - map : 입력으로 들어오는 인자의 타입을 바꿔서 리턴
 - flatMap : 원소만 리스트로 

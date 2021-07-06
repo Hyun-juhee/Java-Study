@@ -14,7 +14,9 @@
     - stream pipeline
     - stream API
   - collectors
-- [Optional]()
+- [Optional](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/optional)
+  - optional의 필요성
+  - optional API
   
 ## OOP
 - [객체지향의 사실과 오해](https://github.com/Hyun-juhee/Java-Study/blob/main/OOP/TheEssenceOfObjectOrientation.md)
