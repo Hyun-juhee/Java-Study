@@ -2,22 +2,29 @@
 자바와 자바를 이용한 객체지향설계, 테스트주도설계를 학습하면서 정리하는 레포지토리 입니다.
 ## Java
 - [Functional interface](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/functionalInterface)
-    - 함수형 인터페이스의 개념
-    - 람다 표현식의 형태와 특징
-    - 메소드 레퍼런스
+  - 함수형 인터페이스의 개념
+  - 람다 표현식의 형태와 특징
+  - 메소드 레퍼런스
 - [Interface Methods](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/interfaceMethod)
-    - default method
-    - static method
-    - java8 API의 메소드
+  - default method
+  - static method
+  - java8 API의 메소드
 - [Stream](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/stream)
-    - stream
-    - stream pipeline
-    - stream API
+  - stream
+  - stream pipeline
+  - stream API
   - collectors
 - [Optional](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/optional)
   - optional의 필요성
   - optional API
-  
+- [Concurrent](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/concurrent)
+  - concurrent programming
+  - 멀티 스레드
+  - 스레드의 주요 기능 
+  - Executors
+  - Callable, Future
+  - CompletableFuture
+
 ## OOP
 - [객체지향의 사실과 오해](https://github.com/Hyun-juhee/Java-Study/blob/main/OOP/TheEssenceOfObjectOrientation.md)
 - [오브젝트](https://github.com/Hyun-juhee/Java-Study/blob/main/OOP/Object.md)
