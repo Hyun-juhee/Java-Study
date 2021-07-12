@@ -1,6 +1,11 @@
 # Java-Study
 자바와 자바를 이용한 객체지향설계, 테스트주도설계를 학습하면서 정리하는 레포지토리 입니다.
 ## Java
+- [JVM](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/jvm)
+  - JVM, JRE, JDK
+  - JVM의 구조
+  - 클래스로더
+  - 바이트코드
 - [Functional interface](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/functionalInterface)
   - 함수형 인터페이스의 개념
   - 람다 표현식의 형태와 특징
