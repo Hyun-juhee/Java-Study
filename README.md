@@ -29,6 +29,13 @@
   - Executors
   - Callable, Future
   - CompletableFuture
+- [Annotaion](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/annotation)
+  - annotation 개념
+  - 표준 annotation
+  - meta annotation
+  - annotation 요소 규칙
+  
+- [Reflection](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/reflection)
 
 ## OOP
 - [객체지향의 사실과 오해](https://github.com/Hyun-juhee/Java-Study/blob/main/OOP/TheEssenceOfObjectOrientation.md)
