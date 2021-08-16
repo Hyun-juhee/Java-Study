@@ -29,8 +29,6 @@
   - 멀티 스레드
   - 스레드의 주요 기능 
   - Executors
-  - Callable, Future
-  - CompletableFuture
 - [Annotaion](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/annotation)
   - annotation 개념
   - 표준 annotation
