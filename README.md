@@ -1,6 +1,8 @@
 # Java-Study
 자바와 자바를 이용한 객체지향설계, 테스트주도설계를 학습하면서 정리하는 레포지토리 입니다.
 ## Java
+- [Effective Java](https://github.com/Hyun-juhee/Effective-Java)
+  - chapter2. 객체 생성과 파괴
 - [JVM](https://github.com/Hyun-juhee/Java-Study/tree/main/java8/src/jvm)
   - JVM, JRE, JDK
   - JVM의 구조
